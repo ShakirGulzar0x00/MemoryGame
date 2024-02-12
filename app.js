@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'fries',
       img: 'images/fries.png'
     },
-    {
+    { 
       name: 'cheeseburger',
       img: 'images/cheeseburger.png'
     },
