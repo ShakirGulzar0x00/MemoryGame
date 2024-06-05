@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  //options
+  //Card Options for the game
   const cardArray = [
     {
       name: 'fries',
